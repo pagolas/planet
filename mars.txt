@@ -1,3 +1,3 @@
-
+other new line here
 this is the first change I actually type on mars.txt... to check the new commit. This is now the second change...!!!!
 thise is the second change
